@@ -1,7 +1,5 @@
 # Respaldo de Deberes - Fundamentos de la Programación
 
-¡Hola! Le doy la bienvenida a este repositorio.
-
 Este espacio ha sido creado con el objetivo de servir como un respaldo (backup) ordenado de mis tareas y ejercicios de la materia **Fundamentos de la Programación**, perteneciente al primer nivel de la carrera de **Ingeniería en Computación** de la **Universidad Politécnica Estatal del Carchi (UPEC)**.
 
 La intención principal de este repositorio es facilitar a mi profesora la revisión y lectura del código fuente de mis deberes de forma clara y accesible.
